@@ -1,0 +1,5 @@
+{
+  "name": "SA Lotto Official Scraper",
+  "description": "Real-time scraper for South African National Lottery results using Google Search grounding for verified draw data.",
+  "requestFramePermissions": []
+}
